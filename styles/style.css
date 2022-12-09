@@ -384,7 +384,7 @@ font-weight: normal;
   margin-bottom: 16px;
   margin-top: 0;
   padding: 0;
-  list-style-type: none
+  list-style-type: none;
 }
 
 .footer__column-link {
