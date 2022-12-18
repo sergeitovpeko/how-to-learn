@@ -1,0 +1,11 @@
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  background-color: #f2f2f2;
+  background-image: url(/Users/Serge/Desktop/Praktikum/how-to-learn/images/logo_place_header.svg);
+}
+
+.logo_place_header:hover {
+  opacity: 0.5;
+}
